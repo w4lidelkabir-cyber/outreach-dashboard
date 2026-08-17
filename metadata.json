@@ -1,0 +1,6 @@
+{
+  "name": "Optician Outreach Generator",
+  "description": "Générateur de messages d'approche B2B pour opticiens et optométristes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
